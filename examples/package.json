@@ -1,5 +1,5 @@
 {
-  "name": "iasc-rx-nodejs",
+  "name": "iasc-rx-nodejs-examples",
   "version": "1.0.0",
   "dependencies": {
     "rx-node": "~1.0.2",
