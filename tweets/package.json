@@ -1,5 +1,5 @@
 {
-  "name": "iasc-rx-nodejs-tweets",
+  "name": "iasc-reactive-nodejs-tweets",
   "version": "1.0.0",
   "dependencies": {
     "rx-node": "~1.0.2",
